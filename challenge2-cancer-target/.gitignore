@@ -1,0 +1,15 @@
+node_modules/
+.next/
+*.tsbuildinfo
+.env*
+!.env.example
+results/runs/*
+results/reports/*
+results/evidence/*
+results/validation/*
+results/tcga/*
+results/*.md
+!results/runs/.gitkeep
+!results/reports/.gitkeep
+!results/evidence/.gitkeep
+!results/validation/.gitkeep
